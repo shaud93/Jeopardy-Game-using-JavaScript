@@ -1,0 +1,53 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+div
+{
+  margin-left: auto;
+  margin-right: auto;
+  height: 80.3vh;
+  width:  80.3vw;
+
+}
+
+.boarder
+{
+  border: solid 1px black;
+}
+
+table
+{
+  margin-left: auto;
+  margin-right: auto;
+  height: 80vh;
+  width:  80vw; 
+} 
+
+th
+{
+  text-align: center;
+  text-transform: capitalize;
+  border: solid 1px black;
+  height: 13vh;
+  width: 13vh;
+  background-color: gold;
+  font-size:xx-large;
+}
+
+td 
+{
+  text-align: center;
+  border: solid 1px black;
+  height: 13vh;
+  width: 13vh;
+  background-color: deepskyblue;
+  font-size: large;
+}
+h1
+{
+  text-align: center;
+}
